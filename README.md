@@ -1,4 +1,4 @@
-# Root-Planning-Application
+# Route-Planning-Application
 Developed a Metro Route Optimization System in Java, utilizing graph data structures and Dijkstra’s
 algorithm for efficient pathfinding. Enabled users to explore metro networks, find optimal routes based on distance
 and time constraints, and provided an interactive interface for easy navigation. Incorporated station codes for user
